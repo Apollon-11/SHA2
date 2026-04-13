@@ -1,4 +1,4 @@
-<h1>SHA-256 (Educational Implementation)</h1>>
+<h1>SHA-256 (Educational Implementation)</h1>
 This repository contains a tutorial implementation of the SHA-256 algorithm in C++ without using third-party cryptographic libraries.
 The goal of the project is to study the internals of hash functions and implement the algorithm at a low level.
 This project is not intended for production use.
