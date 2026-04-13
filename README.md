@@ -4,7 +4,6 @@ The goal of the project is to study the internals of hash functions and implemen
 This project is not intended for production use.
 <h1>Development Timeline:</h1>
 Initial Development: 2024
-Revision and Publication: 2026
 
 <h1>Usage:</h1>
 Specify the input message in the program code:
@@ -25,7 +24,6 @@ The project was created as a standalone implementation for studying the principl
 Проект не предназначен для использования в производственных целях.
 <h1>Сроки разработки:</h1>
 Начальная разработка: 2024 г.
-Доработка и публикация: 2026 г.
 
 
 <h1>Использование:</h1>
