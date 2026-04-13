@@ -1,8 +1,8 @@
-<h1>SHA-256 (Educational Implementation)<h1>
+<h1>SHA-256 (Educational Implementation)</h1>>
 This repository contains a tutorial implementation of the SHA-256 algorithm in C++ without using third-party cryptographic libraries.
 The goal of the project is to study the internals of hash functions and implement the algorithm at a low level.
 This project is not intended for production use.
-<h1>Development Timeline:<h1>
+<h1>Development Timeline:</h1>
 Initial Development: 2024
 Revision and Publication: 2026
 
@@ -19,11 +19,11 @@ Additional features such as streaming file hashing, a CLI interface, or test vec
 For production use, it is recommended to use proven libraries.
 The project was created as a standalone implementation for studying the principles of SHA-256.
 
-<h1>SHA-256 (учебная реализация)<h1>
+<h1>SHA-256 (учебная реализация)</h1>
 Этот репозиторий содержит учебную реализацию алгоритма SHA-256 на C++ без использования сторонних криптографических библиотек.
 Цель проекта — изучение внутреннего устройства хэш-функций и практическая реализация алгоритма на низком уровне.
 Проект не предназначен для использования в производственных целях.
-<h1>Сроки разработки:<h1>
+<h1>Сроки разработки:</h1>
 Начальная разработка: 2024 г.
 Доработка и публикация: 2026 г.
 
